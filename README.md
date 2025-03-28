@@ -2,7 +2,7 @@
 
 ## 🚀 Featured Project: ChronoCal
 ⏰ A clock-calendar hybrid with dynamic theming  
-👉 **[Live Demo] https://github.com/Arunkambrekar/ChronoCal.git** | **[Code](https://github.com/Arunkambrekar/ChronoCal)**
+👉 **[Live Demo] https://arunkambrekar.github.io/ChronoCal/**    | **[Code]   https://github.com/Arunkambrekar/ChronoCal.git**
 
 ## 💡 Skills
 - Frontend: JavaScript, CSS3, HTML5  
