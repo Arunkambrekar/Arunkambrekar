@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Arun Kambrekar 👋
 
-<!--
-**Arunkambrekar/Arunkambrekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Project: ChronoCal
+⏰ A clock-calendar hybrid with dynamic theming  
+👉 **[Live Demo](https://your-username.github.io/ChronoCal)** | **[Code](https://github.com/your-username/ChronoCal)**
 
-Here are some ideas to get you started:
+## 💡 Skills
+- Frontend: JavaScript, CSS3, HTML5  
+- Tools: Git, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+🔍 **Open to frontend opportunities!**  
+📧 Email: 01fe21bec242@kletech.ac.in  
+🔗 LinkedIn:   
