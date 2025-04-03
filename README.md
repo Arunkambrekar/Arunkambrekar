@@ -1,10 +1,10 @@
 # Hi, I'm Arun Kambrekar 👋
 
-## 🚀 Featured Project: ChronoCal
+## 🚀 Featured Project 1: ChronoCal
 ⏰ A clock-calendar hybrid with dynamic theming  
 👉 **[Live Demo] https://arunkambrekar.github.io/ChronoCal/**    | **[Code]   https://github.com/Arunkambrekar/ChronoCal.git**
 
-## 🚀 Featured Project: MY portfolio
+## 🚀 Featured Project 2: MY portfolio
     Responsive Portfolio website to showcase my talent and my projects.
  👉 **[Live Demo] https://arunkambrekar.github.io/Arun-Portfolio/**   | **[Code]   https://github.com/Arunkambrekar/Arun-Portfolio/**
  
