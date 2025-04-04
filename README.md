@@ -7,7 +7,10 @@
 ## 🚀 Featured Project 2: MY portfolio
     Responsive Portfolio website to showcase my talent and my projects.
  👉 **[Live Demo] https://arunkambrekar.github.io/Arun-Portfolio/**   | **[Code]   https://github.com/Arunkambrekar/Arun-Portfolio/**
- 
+
+## 🚀 Featured Project 3: CommerceCalc
+"🚀 Smart multi-currency discount calculator with real-time exchange rates, tiered pricing analysis, and PDF/CSV exports – built with modern JavaScript to optimize e-commerce decision-making."  
+👉 **[Live Demo] https://arunkambrekar.github.io/CommerceCalc/**    | **[Code]   https://github.com/Arunkambrekar/CommerceCal.git**
 
 ## 💡 Skills
 - Frontend: JavaScript, CSS3, HTML5  
