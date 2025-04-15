@@ -10,7 +10,7 @@
 
 ## 🚀 Featured Project 3: CommerceCalc
 "🚀 Smart multi-currency discount calculator with real-time exchange rates, tiered pricing analysis, and PDF/CSV exports – built with modern JavaScript to optimize e-commerce decision-making."  
-👉 **[Live Demo] https://arunkambrekar.github.io/CommerceCalc/**    | **[Code]   https://github.com/Arunkambrekar/CommerceCalc**
+👉 **[Live Demo] https://arunkambrekar.github.io/CommerceCalc-/**    | **[Code]   https://github.com/Arunkambrekar/CommerceCalc-**
 
 ## 💡 Skills
 - Frontend: JavaScript, CSS3, HTML5  
